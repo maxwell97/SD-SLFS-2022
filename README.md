@@ -63,7 +63,7 @@ vor fi stocate alte noduri sau continutul fisierelor(in functie de tipul nodului
  - similara cu cp, dar functioneaza si cu directoare
  - dupa ce se "copiaza" elementul dat ca <source>, se sterge nodul <source>
 
-### (Opțional) Resurse / Bibliografie:
+### Resurse / Bibliografie:
 
 1. (https://ocw.cs.pub.ro/courses/sd-ca)
 2. (https://geeksforgeeks.org)
