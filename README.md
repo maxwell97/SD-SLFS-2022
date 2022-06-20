@@ -2,7 +2,7 @@
 
 **Grupă: 313CA**
 
-## Simple Linux File System - Tema 3
+## Simple Linux File System 
 
 ### Descriere:
 
